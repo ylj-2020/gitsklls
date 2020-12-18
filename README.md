@@ -11,3 +11,4 @@ this file is added by main
 
 this file is add by dev
 
+with--no-ff no fast forward merge
