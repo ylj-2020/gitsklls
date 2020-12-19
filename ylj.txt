@@ -3,4 +3,4 @@ test B
 test C
 test D
 
-test 这里会冲突
+test EE 这里会冲突（resolve）
